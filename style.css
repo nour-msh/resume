@@ -1,0 +1,11 @@
+img {border-radius: 70%;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+div{
+    column-count:2;
+}
+hr{
+    width: 100%
+}
